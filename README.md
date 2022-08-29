@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Shariful Islam Shohag</h1>
-<h3 align="center">This is the Linked List Repository for skill development which contains two Branch projects Name "ImplementLinkedListUsigC#" "ImplementLinkedListUsigGoLang" where i use C# and GoLang to implement Linked List</h3>
+<h4 align="center">This is the SerilogConfiguration Repository for skill development where i use asp .net core mvc project to implement serilog in asp net 6 project,here i implemet how configure serilog in .net 6 and write log information in sql server data table </h4>
 
 - 🔭 I’m currently working on [Problem Solving](https://github.com/shohag66/Linked-List)
 
